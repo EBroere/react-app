@@ -1,0 +1,13 @@
+.Info li {
+    font-size: 25px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+  
+  text-align: left;
+  list-style-type: none;
+  }
+
+
+  .Info ul{
+    padding: 0;
+  }

@@ -1,0 +1,17 @@
+.Header{
+  border-top: 1px solid #f9f7fe;
+}
+
+h1 {
+  font-size: 90px;
+  margin-left: 50px;
+  margin-bottom: 0px;
+text-align: left;
+}
+
+h2 {
+  font-size: 45px;
+  margin-left: 50px;
+  margin-top: 0px;
+  text-align: left;
+}

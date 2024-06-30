@@ -1,0 +1,64 @@
+.Forecast {
+  border-top: 1px solid #f9f7fe;
+}
+
+.Forecast p {
+  font-size: 30px;
+  font-weight: 500;
+  text-align: left;
+  margin-left: 50px;
+  color: rgba(39, 33, 66, 0.4);
+}
+
+.Days ul {
+  margin: 0 50px 30px;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+.Days li {
+  font-size: 25px;
+  margin-left: 50px;
+  margin-bottom: 0px;
+  text-align: left;
+  list-style-type: none;
+}
+
+.Emoji ul {
+  margin: 0 50px 30px;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+.Emoji li {
+  font-size: 80px;
+  margin-left: 50px;
+  margin-bottom: 0px;
+
+  text-align: left;
+  list-style-type: none;
+}
+
+.MinMax ul {
+  margin: 0 50px 30px;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+.MinMax li {
+  font-size: 25px;
+  margin-left: 50px;
+  margin-bottom: 0px;
+
+  text-align: left;
+  list-style-type: none;
+}

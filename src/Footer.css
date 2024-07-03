@@ -3,17 +3,17 @@
   text-align: center;
 }
 
-.Footer p{
+.Footer p {
   font-size: 25px;
 }
 
-.Footer a{
+.Footer a {
   color: #294764;
   text-decoration: none;
 }
 
 .Footer a:hover {
-  color: #FFE345;
+  color: #ffe345;
   text-decoration: underline;
 }
 

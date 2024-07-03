@@ -14,10 +14,7 @@ export default function Footer() {
         </a>
         <span className="footer-emoji">🧍🏽‍♀️ </span>
         and is on{" "}
-        <a
-          href="https://www.github.com/EBroere/Ellen-Weather-app.git"
-          target="_blank"
-        >
+        <a href="https://github.com/EBroere/react-app" target="_blank">
           GitHub{" "}
         </a>
         and hosted on{" "}

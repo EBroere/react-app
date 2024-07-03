@@ -3,7 +3,7 @@
 }
 
 .Forecast p {
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 500;
   text-align: left;
   margin-left: 50px;
@@ -20,7 +20,7 @@
 }
 
 .Days li {
-  font-size: 25px;
+  font-size: 15px;
   margin-left: 50px;
   margin-bottom: 0px;
   text-align: left;
@@ -37,7 +37,7 @@
 }
 
 .Emoji li {
-  font-size: 80px;
+  font-size: 70px;
   margin-left: 50px;
   margin-bottom: 0px;
 
@@ -55,7 +55,7 @@
 }
 
 .MinMax li {
-  font-size: 25px;
+  font-size: 20px;
   margin-left: 50px;
   margin-bottom: 0px;
 

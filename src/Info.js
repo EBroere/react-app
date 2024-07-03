@@ -1,5 +1,6 @@
 import React from "react";
 import "./Info.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function Info() {
   return (

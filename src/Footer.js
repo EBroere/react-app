@@ -24,7 +24,7 @@ export default function Footer() {
         </a>
         and hosted on{" "}
         <a
-          href="https://ellenbroere-weather-app.netlify.app/"
+          href="https://react-app-eb.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
